@@ -17,3 +17,8 @@
 5) Реализуйте свой Iterator для обхода списка в обратном порядке
 6) Выведите на экран строки, номера которых задаются пользователем в произвольном порядке
 Ссылка на задние: https://github.com/TredBoed/Task2SberTech
+
+Задание3:
+1) Параметризовать CountMap (из репозитория https://github.com/sbtjavaschool/generics) и реализовать его
+2) Параметризовать методы CollectionUtils, используя правило PECS, и реализовать их
+Ссылка на задние: https://github.com/TredBoed/Task3SberTech
