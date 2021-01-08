@@ -22,3 +22,11 @@
 1) Параметризовать CountMap (из репозитория https://github.com/sbtjavaschool/generics) и реализовать его
 2) Параметризовать методы CollectionUtils, используя правило PECS, и реализовать их
 Ссылка на задние: https://github.com/TredBoed/Task3SberTech
+
+Задание4.1:
+0) Реализовать свой итератор массива объектов. Написать тесты для проверки, оформить сборку через Maven.
+Ссылка на задние: https://github.com/TredBoed/Task4.1SberTech
+
+Задание5:
+0) Реализовать интерфейс Terminal, с помощью которого можно: Проверить состояние счета, Снять/Положить деньги
+Ссылка на задние: https://github.com/TredBoed/Task5SberTech
